@@ -1,0 +1,15 @@
+{
+    "name": "anson/openim-for-laravel",
+    "authors": [
+        {
+            "name": "anson",
+            "email": "113157428@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Anson\\Openim\\":"packages/anson/openim/src/"
+        }
+    },
+    "require": {}
+}
